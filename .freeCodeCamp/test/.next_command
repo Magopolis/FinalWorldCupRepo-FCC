@@ -76,3 +76,5 @@ chmod +x queries.sh
 ./ insert_data.sh
 ./insert_data.sh
 ./queries.sh
+ls --color=auto -la
+git add .
